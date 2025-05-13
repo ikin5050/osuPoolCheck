@@ -1,6 +1,7 @@
 # osuPoolCheck
 
-Done:
+<details>
+<summary>Done</summary>
 TWC/2011
 TWC/2012
 TWC/3
@@ -80,12 +81,15 @@ VOT3
 VOT4
 TTF
 4TWC
+</details>
 
-
-Knowingly missing:
+<details>
+<summary>Knowingly omitted</summary>
 VOT2 - spreadsheet deleted
+</details>
 
-Todo:
+<details>
+<summary>To Do</summary>
 onitou taiko cup - https://osu.ppy.sh/community/forums/topics/1924852?n=1
 taiko collegiate league - https://osu.ppy.sh/community/forums/topics/1920449?n=1
 CIS middle - https://osu.ppy.sh/community/forums/topics/1554492?n=1
@@ -96,6 +100,7 @@ asian-oceanic taiko showdown - https://osu.ppy.sh/community/forums/topics/928099
 taiko wars - https://osu.ppy.sh/community/forums/topics/813794?n=1
 lms4 - https://osu.ppy.sh/community/forums/topics/634615?n=1
 lms3 - https://osu.ppy.sh/community/forums/topics/449295?n=1
+NSATT 2018
 nsatt 2020 - https://osu.ppy.sh/community/forums/topics/1058159?n=1
 nsatt 2021 - https://osu.ppy.sh/community/forums/topics/1354479?n=1
 nsatt 2024 - https://osu.ppy.sh/community/forums/topics/1938136?n=1
@@ -115,3 +120,7 @@ rgts 2025
 BGTS2020
 EUTT2018
 COEGTS 2023
+tctv3
+TSC 2023 Summer - https://osu.ppy.sh/community/forums/topics/1787087?n=1
+TSC 2023 - https://gtsosu.com/2023/tsc/home
+</details>

@@ -273,4 +273,21 @@ ygts 2024 - https://gtsosu.com/2024/ygts/home
 midway taiko cup 1 - https://osu.ppy.sh/community/forums/topics/1629622?n=1
 
 midway taiko cup 2 - https://osu.ppy.sh/community/forums/topics/1418090?n=1
+
+torneo taiko mexico - https://osu.ppy.sh/community/forums/topics/1923688?n=1
+
+taiko mod tournement 1 - https://osu.ppy.sh/community/forums/topics/1400179?n=1
+
+unnamed taiko monthly thing 1 - https://docs.google.com/spreadsheets/u/0/d/1430ql58ki648gM1fTctDI_PANGoa6R6vqAIjMTpVYaw/htmlview
+
+
+
+
+ask sola for these:
+
+MTC BLITZ 1 - 
+
+MTC BLITZ 2 - 
+
+unnamed taiko monthly thing 2 - 
 </details>

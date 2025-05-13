@@ -246,4 +246,28 @@ SGTS 2025 - ANNOUNCED
 
 SUIJI 2025 - ANNOUNCED
 
+TSC 2021 - https://gtsosu.com/2021/tsc/home
+
+lgts - https://gtsosu.com/2021/lgts/home
+
+Btt 7 - https://gtsosu.com/2022/btt/home
+
+btt 8 - https://gtsosu.com/2023/btt/home
+
+btt 3 - https://osu.ppy.sh/community/forums/topics/695681?n=1
+
+btt 9 - https://osu.ppy.sh/community/forums/topics/1918897?n=1
+
+newbie taiko journey 1 - https://osu.ppy.sh/community/forums/topics/1709743?n=1
+
+newbie taiko journey 2 - https://osu.ppy.sh/community/forums/topics/1838639?n=1
+
+ygts 2021 - https://gtsosu.com/2021/ygts/home
+
+ygts 2022 - https://gtsosu.com/2022/ygts/home
+
+ygts 2023 - https://gtsosu.com/2023/ygts/home
+
+ygts 2024 - https://gtsosu.com/2024/ygts/home
+
 </details>

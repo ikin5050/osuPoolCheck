@@ -176,7 +176,9 @@ VOT2 - https://docs.google.com/spreadsheets/d/1T99qjdkNlsiDiwZfS3-HtuutLHoRO1OZI
 
 onitou taiko cup - https://osu.ppy.sh/community/forums/topics/1924852?n=1
 
-taiko collegiate league - https://osu.ppy.sh/community/forums/topics/1920449?n=1
+T!cl 2022 - https://taikotourney.com/2022/tcl/home
+
+taiko collegiate league 2024 - https://osu.ppy.sh/community/forums/topics/1920449?n=1
 
 CIS middle - https://osu.ppy.sh/community/forums/topics/1554492?n=1
 

@@ -1,5 +1,7 @@
 # osuPoolCheck
 
+# This is not the tool, just an overview of the tournaments included within its database. Release will be when I actually add all of the tourneys under the TODO tab!
+
 <details>
 <summary>Done</summary>
 TWC/2011

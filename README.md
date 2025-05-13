@@ -166,11 +166,14 @@ TTF
 
 <details>
 <summary>Knowingly omitted</summary>
-VOT2 - spreadsheet deleted
+
 </details>
 
 <details>
 <summary>To Do</summary>
+
+VOT2 - https://docs.google.com/spreadsheets/d/1T99qjdkNlsiDiwZfS3-HtuutLHoRO1OZIg0yNRjnzho/edit?gid=607469568#gid=607469568
+
 onitou taiko cup - https://osu.ppy.sh/community/forums/topics/1924852?n=1
 
 taiko collegiate league - https://osu.ppy.sh/community/forums/topics/1920449?n=1

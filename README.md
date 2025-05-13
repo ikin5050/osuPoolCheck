@@ -252,6 +252,10 @@ TSC 2021 - https://gtsosu.com/2021/tsc/home
 
 lgts - https://gtsosu.com/2021/lgts/home
 
+btt 1 - https://docs.google.com/spreadsheets/d/1tuRfNzBRCAjjHn2NSuaEp-hbgMdK4_0G-TtvbaGN4mg/pubhtml
+
+btt 2 - https://docs.google.com/spreadsheets/d/1f8BLyJHWARQk3n5_iUB-r32pfaVPIJ3Bo3ibtrN9uZI/pubhtml?gid=0&single=true , https://docs.google.com/spreadsheets/d/1f8BLyJHWARQk3n5_iUB-r32pfaVPIJ3Bo3ibtrN9uZI/pubhtml?gid=917828836&single=true , https://docs.google.com/spreadsheets/d/1f8BLyJHWARQk3n5_iUB-r32pfaVPIJ3Bo3ibtrN9uZI/pubhtml?gid=1110224737&single=true , https://docs.google.com/spreadsheets/d/1f8BLyJHWARQk3n5_iUB-r32pfaVPIJ3Bo3ibtrN9uZI/pubhtml?gid=1564479163&single=true , https://docs.google.com/spreadsheets/d/1oTFciPhN3vREmKJguMsUgMn-oMVviD89wgA4dMQ2HV8/pubhtml , https://docs.google.com/spreadsheets/d/e/2PACX-1vTLbvJH8T0RJcoPuwdZ-vq1N3387eC0IhlWolKu0NM6Y4lsXnvMUe9FNBk8x8KLIvJljSvj4aqumHMp/pubhtml 
+
 Btt 7 - https://gtsosu.com/2022/btt/home
 
 btt 8 - https://gtsosu.com/2023/btt/home

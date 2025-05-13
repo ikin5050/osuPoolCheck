@@ -170,36 +170,69 @@ VOT2 - spreadsheet deleted
 <details>
 <summary>To Do</summary>
 onitou taiko cup - https://osu.ppy.sh/community/forums/topics/1924852?n=1
+
 taiko collegiate league - https://osu.ppy.sh/community/forums/topics/1920449?n=1
+
 CIS middle - https://osu.ppy.sh/community/forums/topics/1554492?n=1
+
 Old Map Fantasy: Taiko Spinoff - https://osu.ppy.sh/community/forums/topics/1482675?n=1
+
 taiko draft masters - https://osu.ppy.sh/community/forums/topics/922531?n=1
+
 nanahira cup - https://osu.ppy.sh/community/forums/topics/1617946?n=1
+
 asian-oceanic taiko showdown - https://osu.ppy.sh/community/forums/topics/928099?n=1
+
 taiko wars - https://osu.ppy.sh/community/forums/topics/813794?n=1
+
 lms4 - https://osu.ppy.sh/community/forums/topics/634615?n=1
+
 lms3 - https://osu.ppy.sh/community/forums/topics/449295?n=1
+
 NSATT 2018
+
 nsatt 2020 - https://osu.ppy.sh/community/forums/topics/1058159?n=1
+
 nsatt 2021 - https://osu.ppy.sh/community/forums/topics/1354479?n=1
+
 nsatt 2024 - https://osu.ppy.sh/community/forums/topics/1938136?n=1
+
 korean rising tournament - https://osu.ppy.sh/community/forums/topics/1700244?n=1
+
 suiji 2023 - https://osu.ppy.sh/community/forums/topics/1787087?n=1
+
 a las pinas - https://osu.ppy.sh/community/forums/topics/1580375?n=1
+
 taiko fr 2019 - https://osu.ppy.sh/community/forums/topics/900423?n=1
+
 taiko fr 2020 - https://osu.ppy.sh/community/forums/topics/1011848?n=1
+
 taiko fr 2021 - https://osu.ppy.sh/community/forums/topics/1222624?n=1
+
 donkat 2.0 - https://osu.ppy.sh/community/forums/topics/665866?n=1
+
 ausu taiko 2022 - https://osu.ppy.sh/community/forums/topics/1561998?n=1
+
 Project Prism
+
 eutt 2021 - https://osu.ppy.sh/community/forums/topics/1354478?n=1
+
 egts 2025
+
 agts 2025
+
 rgts 2025
+
 BGTS2020
+
 EUTT2018
+
 COEGTS 2023
+
 tctv3
+
 TSC 2023 Summer - https://osu.ppy.sh/community/forums/topics/1787087?n=1
+
 TSC 2023 - https://gtsosu.com/2023/tsc/home
+
 </details>

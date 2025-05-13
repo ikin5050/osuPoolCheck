@@ -221,9 +221,9 @@ eutt 2021 - https://osu.ppy.sh/community/forums/topics/1354478?n=1
 
 egts 2025
 
-agts 2025
+agts 2025 - IN PROGRESS
 
-rgts 2025
+rgts 2025 - IN PROGRESS
 
 BGTS2020
 
@@ -236,5 +236,11 @@ tctv3
 TSC 2023 Summer - https://osu.ppy.sh/community/forums/topics/1787087?n=1
 
 TSC 2023 - https://gtsosu.com/2023/tsc/home
+
+FM Radio - IN PROGRESS
+
+SGTS 2025 - ANNOUNCED
+
+SUIJI 2025 - ANNOUNCED
 
 </details>

@@ -280,6 +280,23 @@ taiko mod tournement 1 - https://osu.ppy.sh/community/forums/topics/1400179?n=1
 
 unnamed taiko monthly thing 1 - https://docs.google.com/spreadsheets/u/0/d/1430ql58ki648gM1fTctDI_PANGoa6R6vqAIjMTpVYaw/htmlview
 
+T_LMS/SHIFT_3 - https://docs.google.com/spreadsheets/d/e/2PACX-1vSZhguwky31SituL-y5-yHlUq56qLdWWx7mlFS7JboBALP6f-bsseVG4JbAb3hsfh-PtKDwYwRRlTr4/pubhtml
+
+TMTC - https://docs.google.com/spreadsheets/d/1KwRNuOOrb2ywBiC7wrQpuL80j6tnHu98TKoHaHymlTE/edit?gid=694475622#gid=694475622
+
+BOMB - https://docs.google.com/spreadsheets/d/1W1TcJXZ42WWJF7eZ_06DsVl0a1xK6KUxSW61_HuEBDE/edit?gid=0#gid=0
+
+SMT HD - https://docs.google.com/spreadsheets/d/1dbVeOuAGBsM7U2SAOSwry4d25-ET5jwkyMnglEXc1G8/edit?gid=0#gid=0
+
+Feed the pet - https://osu.ppy.sh/community/forums/topics/1779471?n=1
+
+cozy cup - https://osu.ppy.sh/community/forums/topics/1669025?n=1
+
+taiko intermediate loved tournament - https://osu.ppy.sh/community/forums/topics/1630735?n=1
+
+nanahira cup 2 - https://osu.ppy.sh/community/forums/topics/1774894?n=1
+
+TART 3.5 - https://osu.ppy.sh/community/forums/topics/1771479?n=1
 
 
 

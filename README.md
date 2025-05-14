@@ -5,6 +5,8 @@
 <details>
 <summary>Done</summary>
 ausu taiko 2022 - https://osu.ppy.sh/community/forums/topics/1561998?n=1
+  
+taiko colosseum spring 2023
 </details>
 
 <details>

@@ -6,7 +6,7 @@
 <summary>Done</summary>
 ausu taiko 2022 - https://osu.ppy.sh/community/forums/topics/1561998?n=1
   
-taiko colosseum spring 2023
+taiko colosseum
 </details>
 
 <details>
@@ -303,8 +303,6 @@ taiko intermediate loved tournament - https://osu.ppy.sh/community/forums/topics
 nanahira cup 2 - https://osu.ppy.sh/community/forums/topics/1774894?n=1
 
 TART 3.5 - https://osu.ppy.sh/community/forums/topics/1771479?n=1
-
-taiko trollosseum - https://docs.google.com/spreadsheets/d/1Q9eXPIxboov6CG1psPmZ8KUKO3_6ikMRLI9U7wgaaAw/edit?gid=1456414558#gid=1456414558
 
 ask sola for these:
 

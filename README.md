@@ -4,6 +4,16 @@
 
 <details>
 <summary>Done</summary>
+
+</details>
+
+<details>
+<summary>Knowingly omitted</summary>
+
+</details>
+
+<details>
+<summary>To Do</summary>
 TWC/2011
 
 TWC/2012
@@ -161,16 +171,6 @@ VOT4
 TTF
 
 4TWC
-
-</details>
-
-<details>
-<summary>Knowingly omitted</summary>
-
-</details>
-
-<details>
-<summary>To Do</summary>
 
 VOT2 - https://docs.google.com/spreadsheets/d/1T99qjdkNlsiDiwZfS3-HtuutLHoRO1OZIg0yNRjnzho/edit?gid=607469568#gid=607469568
 

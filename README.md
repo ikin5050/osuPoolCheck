@@ -4,7 +4,7 @@
 
 <details>
 <summary>Done</summary>
-
+ausu taiko 2022 - https://osu.ppy.sh/community/forums/topics/1561998?n=1
 </details>
 
 <details>
@@ -217,8 +217,6 @@ taiko fr 2020 - https://osu.ppy.sh/community/forums/topics/1011848?n=1
 taiko fr 2021 - https://osu.ppy.sh/community/forums/topics/1222624?n=1
 
 donkat 2.0 - https://osu.ppy.sh/community/forums/topics/665866?n=1
-
-ausu taiko 2022 - https://osu.ppy.sh/community/forums/topics/1561998?n=1
 
 Project Prism
 

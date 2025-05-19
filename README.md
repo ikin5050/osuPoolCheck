@@ -7,10 +7,14 @@
 ausu taiko 2022 - https://osu.ppy.sh/community/forums/topics/1561998?n=1
   
 taiko colosseum
+
 </details>
 
 <details>
-<summary>Knowingly omitted</summary>
+<summary>Tidy</summary>
+VOT2
+
+onitou taiko cup - https://osu.ppy.sh/community/forums/topics/1924852?n=1
 
 </details>
 
@@ -173,10 +177,6 @@ VOT4
 TTF
 
 4TWC
-
-VOT2 - https://docs.google.com/spreadsheets/d/1T99qjdkNlsiDiwZfS3-HtuutLHoRO1OZIg0yNRjnzho/edit?gid=607469568#gid=607469568
-
-onitou taiko cup - https://osu.ppy.sh/community/forums/topics/1924852?n=1
 
 T!cl 2022 - https://taikotourney.com/2022/tcl/home
 

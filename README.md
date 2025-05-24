@@ -8,7 +8,7 @@ ausu taiko 2022 - https://osu.ppy.sh/community/forums/topics/1561998?n=1
   
 taiko colosseum
 
-T!cl 2022 - https://taikotourney.com/2022/tcl/home
+
 
 </details>
 
@@ -18,6 +18,7 @@ VOT2
 
 onitou taiko cup - https://osu.ppy.sh/community/forums/topics/1924852?n=1
 
+T!cl 2022 - https://taikotourney.com/2022/tcl/home
 </details>
 
 <details>

@@ -8,6 +8,8 @@ ausu taiko 2022 - https://osu.ppy.sh/community/forums/topics/1561998?n=1
   
 taiko colosseum
 
+T!cl 2022 - https://taikotourney.com/2022/tcl/home
+
 </details>
 
 <details>
@@ -177,8 +179,6 @@ VOT4
 TTF
 
 4TWC
-
-T!cl 2022 - https://taikotourney.com/2022/tcl/home
 
 taiko collegiate league 2024 - https://osu.ppy.sh/community/forums/topics/1920449?n=1
 
